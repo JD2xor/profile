@@ -1,0 +1,47 @@
+body {
+  font-family: 'Roboto', 'Noto Sans JP', sans-serif;
+  color: #333333;
+}
+
+.nav-item {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.jumbotron {
+  background-color: #c3e6cb;
+}
+
+h2 {
+  margin-bottom: 1.5rem;
+}
+
+.under {
+  border-bottom: medium solid #28a745;
+}
+
+table thead {
+  border-top: medium solid #333333;
+  border-bottom: thin solid #333333;
+}
+
+th {
+  text-align: center;
+}
+
+th, td {
+  padding: 0.5rem 1.5rem;
+}
+
+.column {
+  color: #545454;
+}
+
+.tr-bottom {
+  border-bottom: thin solid #333333;
+}
+
+li {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}

@@ -3,6 +3,10 @@ body {
   color: #333333;
 }
 
+a:hover {
+  color: #28a745;
+}
+
 .nav-item {
   margin-left: 1rem;
   margin-right: 1rem;
@@ -14,6 +18,10 @@ body {
 
 h2 {
   margin-bottom: 1.5rem;
+}
+
+#Education h2 {
+  margin-bottom: 2.25rem;
 }
 
 .under {
@@ -34,11 +42,19 @@ th, td {
 }
 
 .column {
-  color: #545454;
+  color: #6c757d;
 }
 
 .tr-bottom {
   border-bottom: thin solid #333333;
+}
+
+.card-body {
+  text-align: center;
+}
+
+.card-bottom {
+  color: #6c757d;
 }
 
 li {
